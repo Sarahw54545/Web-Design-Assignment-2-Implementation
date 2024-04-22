@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.hero {
+	background-image: url("#");
+	background-color: olivedrab;
+	padding: 10px;
+}
+
+.cao-btn-section {
+	padding-top: 1%;
+}
+
+.hero-btn {
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-right: 5%;
+	padding-left: 5%;
+}
+
+.section {
+	padding-top: 3%;
+}
+
+.section-title {
+	padding-bottom: 2%
+}
+
+.section-end {
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
